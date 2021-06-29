@@ -6,8 +6,8 @@ var altura
 
 function capturar (){
 
-
-    nome = document.getElementById('nome').value;               
+    //Receber os valores
+    nome = document.getElementById('nome').value;              
     idade = document.getElementById('idade').value;             
     dinheiro = document.getElementById('dinheiro').value;       
     altura = document.getElementById('altura').value;           
